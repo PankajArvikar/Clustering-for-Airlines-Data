@@ -12,7 +12,9 @@
   Qual_mile--Number of miles counted as qualifying for Topflight status
 
   cc1_miles -- Number of miles earned with freq. flyer credit card in the past 12 months:
+  
   cc2_miles -- Number of miles earned with Rewards credit card in the past 12 months:
+  
   cc3_miles -- Number of miles earned with Small Business credit card in the past 12 months:
 
     1 = under 5,000
